@@ -13,13 +13,15 @@ using namespace std;
 
 
 int main() {
-	cout << ariel::snowman(11114411) << endl;   /* Should print:
+	//cout << ariel::snowman(11114411) << endl;   
+	/* Should print:
 _===_
 (.,.)
 ( : )
 ( : )
 	*/
-	cout << ariel::snowman(33232124) << endl;  /* Should print:
+//	cout << ariel::snowman(33232124) << endl; 
+ /* Should print:
    _
   /_\
 \(o_O)
