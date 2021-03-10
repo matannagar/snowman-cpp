@@ -26,6 +26,3 @@ TEST_CASE("Bad snowman code") {
     CHECK_THROWS(snowman(555));
     /* Add more checks here */
 }
-
-
-/* Add more test cases here */

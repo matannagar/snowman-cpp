@@ -1,10 +1,9 @@
 
 #include <iostream>
 #include <string>
-using namespace std;
 
 namespace ariel{
-  string snowman(long x);
+  std:: string snowman(long x);
 }
 
 
